@@ -6,4 +6,5 @@ docker compose up --build to get it to run and go to locahost to see the site.
 
 ## Screenshot of Running Program
 
-![Running Program](screenshots/my_webpage.png)
+![Running Program](screenshots/scr3.png)
+![Running Program](screenshots/scr4.png)
